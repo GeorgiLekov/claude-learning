@@ -1,4 +1,8 @@
-# MyApp
+# Complaint chat
+
+A small, in-memory chat for practicing responses to example customer complaints.
+Use **New random complaint** to add another sample, and type a reply to add it
+to the conversation. Messages are not saved and disappear when the page is refreshed.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
 
